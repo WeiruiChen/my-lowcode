@@ -1,0 +1,15 @@
+.container {
+  display: flex;
+  border: 1px solid #eee;
+  border-radius: 5px;
+  flex-direction: column;
+}
+
+.title {
+  padding: 10px 0 10px 20px;
+  background-color: #eee;
+}
+
+.code {
+  flex-grow: 1;
+}
